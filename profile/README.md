@@ -17,7 +17,7 @@ You give the software two things, the text of the story, and a recording of some
  - [Web-Component](https://github.com/ReadAlongs/web-component) is a large monorepo that contains the web app, the embeddable web component, and more.
  - [Studio](https://github.com/ReadAlongs/Studio) is the repo for the CLI interface and the web_api backend used by the web app.
  - [SoundSwallower](https://github.com/ReadAlongs/SoundSwallower) is the speech recognizer used for audio-text aligner, including both a JavaScript version and a C version with bindings for Python.
- - [g2p](https://github.com/roedoejet/g2p) is the grapheme-to-morpheme library used by the ReadAlongs Studio.
+ - [g2p](https://github.com/roedoejet/g2p) is the grapheme-to-phoneme library used by the ReadAlongs Studio.
  - [ICLDC-Docs](https://github.com/ReadAlongs/ICLDC-Docs) hosts the documentation we provided for the ICLDC8 workshop.
  - [OpenSamples](https://github.com/ReadAlongs/OpenSamples) has public data that can be used for testing.
  
@@ -35,5 +35,3 @@ You give the software two things, the text of the story, and a recording of some
  - Related publications
    - [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c)
    - [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79)
-
-
