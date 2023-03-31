@@ -31,7 +31,7 @@ You give the software two things, the text of the story, and a recording of some
    - [El Studio de ReadAlong en español](https://readalong-studio.mothertongues.org/es/) (Gracias a Jorge Rosés Labrada)
  - Providing feedback
    - Contact us by email to provide your feature requests or bug reports: readalong dot studio à gmail dot com
-   - [Submit an issue on GitHub](https://github.com/ReadAlongs/Web-Component/issues)
+   - Submit an issue here on GitHub on the relevant repo (make it a [Web-Component Issue](https://github.com/ReadAlongs/Web-Component/issues) if you're not sure)
  - Related publications
    - [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c)
    - [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79)
