@@ -14,12 +14,12 @@ You give the software two things, the text of the story, and a recording of some
 
 ## Source code organization
 
- - [Web-Component](web-component) is a large monorepo that contains the web app, the embeddable web component, and more.
- - Studio is the repo for the CLI interface and the web_api backend used by the web app.
- - SoundSwallower is the speech recognizer used for audio-text aligner, including both a JavaScript version and a C version with bindings for Python.
- - [g2p](https://github.com/roedoeget/g2p) is the grapheme-to-morpheme library used by the ReadAlongs Studio.
- - ICLDC-Docs hosts the documentation we provided for the ICLDC8 workshop.
- - OpenSamples has public data that can be used for testing.
+ - [Web-Component](https://github.com/ReadAlongs/web-component) is a large monorepo that contains the web app, the embeddable web component, and more.
+ - [Studio](https://github.com/ReadAlongs/Studio) is the repo for the CLI interface and the web_api backend used by the web app.
+ - [SoundSwallower](https://github.com/ReadAlongs/SoundSwallower) is the speech recognizer used for audio-text aligner, including both a JavaScript version and a C version with bindings for Python.
+ - [g2p](https://github.com/roedoejet/g2p) is the grapheme-to-morpheme library used by the ReadAlongs Studio.
+ - [ICLDC-Docs](https://github.com/ReadAlongs/ICLDC-Docs) hosts the documentation we provided for the ICLDC8 workshop.
+ - [OpenSamples](https://github.com/ReadAlongs/OpenSamples) has public data that can be used for testing.
  
 ## Key links
 
