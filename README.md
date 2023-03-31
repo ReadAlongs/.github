@@ -23,6 +23,6 @@ This space on GitHub is dedicated to all the repos related to the ReadAlongs Pro
 
 Readalong Studio is a program (actually a collection of programs) to help you make and view online "read-along" and "sing-along" audiobooks for language and literacy education. As the audio plays, the word currently being spoken is highlighted, and the student can click on any word to hear it pronounced in isolation.
 
-![Screenshot of a read-along story in the Atikamekw language](images/nikikw-small.png "A read-along story from the Atikamekw language")
+![Screenshot of a read-along story in the Atikamekw language](https://readalongs.github.io/ICLDC-Docs/images/nikikw-small.png "A read-along story from the Atikamekw language")
 
 You give the software two things, the text of the story, and a recording of someone speaking the story aloud. Inside, the software listens to the recording and tries to guess the exact time when each word starts and stops. (If you've ever used audio software like Audacity or ELAN, imagine measuring the exact time when every word starts and stops. You could totally do this, but it takes a long time and can be tedious; it usually takes about an hour to measure a minute of speech!)  Our software's guesses aren't perfect, but it can make these guesses in seconds.
