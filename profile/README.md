@@ -14,10 +14,12 @@ You give the software two things, the text of the story, and a recording of some
 
 ## Key links
 
- - The app:
+ - The Web app online:
    - [The ReadAlong Studio Web App](https://readalong-studio.mothertongues.org/)
    - [L'appli Studio ReadAlong en français](https://readalong-studio.mothertongues.org/fr/)
    - [El Studio de ReadAlong en español](https://readalong-studio.mothertongues.org/es/) (Gracias a Jorge Rosés Labrada)
+ - The Command Line Interface app for advanced users:
+   - Follow instructions at [Studio CLI](https://github.com/ReadAlongs/Studio)
  - The [ICLDC Workshop Documentation](https://readalongs.github.io/ICLDC-Docs/) includes useful documentation for how to use the ReadAlong Studio web app.
  - [Recording of the ICLDC workshop](https://www.youtube.com/watch?v=9CwDCtJGl6w) (The presentation is from 0:00 to 40:30, then it's mostly silence while participant are in the break-out rooms, which were not recorded. There is a short wrap-up from 1:14:38, but the language party at the end was not recorded due to data sovereignty and privacy considerations, and the conclusion was not recorded either.)
  - Providing feedback:
