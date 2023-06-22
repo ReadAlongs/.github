@@ -26,8 +26,9 @@ You give the software two things, the text of the story, and a recording of some
    - Contact us by email to provide your feature requests or bug reports: readalong dot studio à gmail dot com
    - Submit an issue here on GitHub on the relevant repo (make it a [Web-Component Issue](https://github.com/ReadAlongs/Web-Component/issues) if you're not sure)
  - Related publications:
-   - [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c)
-   - [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79)
+   - Pine et al., 2023. ReadAlong-Studio Web Interface for Digital Interactive Storytelling. BEA @ACL, forthcoming.
+   - Littell et al., 2022. [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c). SIGUL @LREC.
+   - Pine et al., 2022. [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79). ComputEL.
 
 ## Source code organization
 
