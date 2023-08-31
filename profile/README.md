@@ -26,16 +26,16 @@ You give the software two things, the text of the story, and a recording of some
    - Contact us by email to provide your feature requests or bug reports: readalong dot studio à gmail dot com
    - Submit an issue here on GitHub on the relevant repo (make it a [Web-Component Issue](https://github.com/ReadAlongs/Web-Component/issues) if you're not sure)
  - Related publications:
-   - Pine et al., 2023. ReadAlong-Studio Web Interface for Digital Interactive Storytelling. BEA @ACL, forthcoming.
+   - Pine et al., 2023. [ReadAlong-Studio Web Interface for Digital Interactive Storytelling](https://nrc-publications.canada.ca/eng/view/object/?id=316fb811-134a-4b1c-8b04-20b8988da57d). BEA @ACL.
+   - Pine et al., 2023. [“Watch me Speak!” interactive storytelling using Read-Along Studio](https://nrc-publications.canada.ca/eng/view/object/?id=fa0863c2-1c95-4156-afa3-064cfea987d6). ICLDC. (This is the workshop mentioned above.)
    - Littell et al., 2022. [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c). SIGUL @LREC.
    - Pine et al., 2022. [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79). ComputEL.
 
 ## Source code organization
 
- - [Web-Component](https://github.com/ReadAlongs/web-component) is a large monorepo that contains the web app, the embeddable web component, and more.
+ - [Web-Component](https://github.com/ReadAlongs/web-component) is a large monorepo that contains the web app and the embeddable web component.
  - [Studio](https://github.com/ReadAlongs/Studio) is the repo for the CLI interface and the web_api backend used by the web app.
- - [SoundSwallower](https://github.com/ReadAlongs/SoundSwallower) is the speech recognizer used for audio-text aligner, including both a JavaScript version and a C version with bindings for Python.
+ - [SoundSwallower](https://github.com/ReadAlongs/SoundSwallower) is the speech recognizer used for audio-text aligner, including both a JavaScript version (used by the web app) and a C version with bindings for Python (used by the CLI version).
  - [g2p](https://github.com/roedoejet/g2p) is the grapheme-to-phoneme library used by the ReadAlongs Studio.
  - [ICLDC-Docs](https://github.com/ReadAlongs/ICLDC-Docs) hosts the documentation we provided for the ICLDC8 workshop.
  - [OpenSamples](https://github.com/ReadAlongs/OpenSamples) has public data that can be used for testing.
- 
